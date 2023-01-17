@@ -23,6 +23,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.text}>Hello React Native</Text>
+      <Text style={{fontFamily:"Inter_600SemiBold"}}>Teste 600 Semibold</Text>
       <StatusBar
         barStyle={'light-content'}
         backgroundColor='transparent'
